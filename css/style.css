@@ -1,0 +1,12 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+td{
+    width: 80px;
+    height: 80px;
+}
+.black{
+    background-color: black;
+}
